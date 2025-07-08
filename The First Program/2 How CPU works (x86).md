@@ -11,3 +11,6 @@ Computer Architecture (High level logic gates)
 Moving toward smaller memory makes operations faster and faster
 HDD>M.M>CACHE>REGISTERS = CPU pull from cache and store result in registers(1-16 bytes)
 Multi core processor mean=More cache and more registers
+
+[[3 Assembly]]
+

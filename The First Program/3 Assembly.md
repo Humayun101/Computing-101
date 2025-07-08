@@ -20,3 +20,6 @@ there is 2 syntax's for x86
 1- Intel
 2- AT&T
 always prefer Intel
+
+[[3.1 DATA]]
+[[3.2 Registers]]
