@@ -3,6 +3,7 @@
 Compiler = translates code into binary (via assembly)
 
 <img src="Pictures/Pasted image 20250708163029.png " width="300">
+
 Inside CPU= 4 type of logic gates
 
 <img src="Pictures/Pasted image 20250708164303.png " width="350">
