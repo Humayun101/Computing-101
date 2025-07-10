@@ -1,0 +1,3 @@
+Usage: /challenge/pwn --secret [SECRET_ARG]
+
+SECRET_ARG should be "8wlz77vs"

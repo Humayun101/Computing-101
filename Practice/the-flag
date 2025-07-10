@@ -1,0 +1,12 @@
+ | 
+\|/ This is the first half:
+ v 
+pwn.college{w6TslH4Fd8zOrly2wMY-OP_WCyz.QX3ATO0wiN3AjMyEzW}
+                              ^
+     that is the second half /|\
+                              |
+
+If you only see the second half above, you redirected in *truncate* mode (>) 
+rather than *append* mode (>>), and so the write of the second half to stdout 
+overwrote the initial write of the first half directly to the file. Try append 
+mode!

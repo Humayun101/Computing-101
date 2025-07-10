@@ -1,0 +1,1 @@
+./bomb.sh & ./bomb.sh &
