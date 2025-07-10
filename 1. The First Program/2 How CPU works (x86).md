@@ -1,12 +1,12 @@
-<img src="Pictures/Pasted image 20250708162336.png " width="400">
+<img src="Pictures/Pasted image 20250708162336.png" width="350">
  Interpreter = runs code directly, no binary or assembly generated    
 Compiler = translates code into binary (via assembly)
 
-<img src="Pictures/Pasted image 20250708163029.png " width="300">
+<img src="Pictures/Pasted image 20250708163029.png" width="350">
 
 Inside CPU= 4 type of logic gates
 
-<img src="Pictures/Pasted image 20250708164303.png " width="350">
+<img src="Pictures/Pasted image 20250708164303.png" width="350">
 
 Computer Architecture (High level logic gates)
 Moving toward smaller memory makes operations faster and faster

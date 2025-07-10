@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 506.5124969482422
+    "width": 594.5124969482422
   },
   "right": {
     "id": "94223d2afb6fc92c",
@@ -168,20 +168,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f7c68068eee77ead",
+  "active": "ff28256bc866bfc4",
   "lastOpenFiles": [
+    "3. Computer Memory/Pictures/Pasted image 20250709220831.png",
+    "3. Computer Memory/3.3 Memory.md",
+    "3. Computer Memory/Pictures",
     "4. Read-Write/3.4 System Calls.md",
+    "4. Read-Write/I. Writing Output.md",
     "1. The First Program/3.2 Registers.md",
+    "1. The First Program/3 Assembly.md",
     "1. The First Program/Moving Between Registers.md",
     "1. The First Program/4 Challenges.md",
-    "3. Computer Memory/3.3 Memory.md",
     "3. Computer Memory/I. Loading from Memory.md",
-    "1. The First Program/3 Assembly.md",
     "1. The First Program/2 How CPU works (x86).md",
     "1. The First Program/1 Introduction.md",
     "2. Software Introspection/sed6DDKT7",
-    "1. The First Program/Pictures/Pasted image 20250709223704.png",
-    "1. The First Program/Pictures/Pasted image 20250709222017.png",
+    "3. Computer Memory/Pictures/Pasted image 20250709223704.png",
+    "3. Computer Memory/Pictures/Pasted image 20250709222017.png",
     "1. The First Program/Pictures/Pasted image 20250708175930.png",
     "1. The First Program/Pictures/Pasted image 20250708163029.png",
     "1. The First Program/Pictures/Pasted image 20250708162336.png",
@@ -196,7 +199,6 @@
     "4. Read-Write/IV. Reading Data.md",
     "4. Read-Write/III. Writings Strings.md",
     "4. Read-Write/II. Chaining Syscalls.md",
-    "4. Read-Write/I. Writing Output.md",
     "4. Read-Write",
     "1. The First Program/4. System Calls",
     "1. The First Program/4. System Calls",
@@ -213,7 +215,6 @@
     "1. The First Program/Exit Codes.md",
     "1. The First Program/The First Register.md",
     "The First Program/4 Challs",
-    "1. The First Program/Pictures",
-    "1. The First Program"
+    "1. The First Program/Pictures"
   ]
 }
