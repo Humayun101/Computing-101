@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Computer Memory/3.3 Memory.md",
+                "file": "4. ReadnWrite/3.4 System Calls.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.3 Memory"
+              "title": "3.4 System Calls"
             }
           }
         ]
@@ -168,10 +168,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff28256bc866bfc4",
+  "active": "f7c68068eee77ead",
   "lastOpenFiles": [
-    "3. Computer Memory/Pictures/Pasted image 20250709220831.png",
     "3. Computer Memory/3.3 Memory.md",
+    "4. ReadnWrite/3.4 System Calls.md",
+    "4. ReadnWrite/Pictures",
+    "4. ReadnWrite/Untitled.md",
+    "4. ReadnWrite/I. Writing Output.md",
+    "3. Computer Memory/Pictures/Pasted image 20250709220831.png",
     "3. Computer Memory/Pictures",
     "4. Read-Write/3.4 System Calls.md",
     "4. Read-Write/I. Writing Output.md",
@@ -192,7 +196,6 @@
     "1. The First Program/Pictures/Pasted image 20250708174259.png",
     "1. The First Program/Pictures/Pasted image 20250708173940.png",
     "1. The First Program/Pictures/Pasted image 20250708172758.png",
-    "1. The First Program/Pictures/Pasted image 20250708172203.png",
     "1. The First Program/3.1 DATA.md",
     "2. Software Introspection/Introduction.md",
     "3. Computer Memory/II. DE-Referencing.md",
@@ -211,10 +214,6 @@
     "2. Software Introspection/1. strace.md",
     "2. Software Introspection",
     "1. The First Program/Executable.md",
-    "1. The First Program/Your First Syscall.md",
-    "1. The First Program/Exit Codes.md",
-    "1. The First Program/The First Register.md",
-    "The First Program/4 Challs",
-    "1. The First Program/Pictures"
+    "The First Program/4 Challs"
   ]
 }
