@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Computer Memory/2. DE-Referencing.md",
+                "file": "1. The First Program/2 How CPU works (x86).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. DE-Referencing"
+              "title": "2 How CPU works (x86)"
             }
           }
         ]
@@ -170,11 +170,27 @@
   },
   "active": "f7c68068eee77ead",
   "lastOpenFiles": [
-    "3. Computer Memory/1. Loading from Memory.md",
-    "3. Computer Memory/2. DE-Referencing.md",
-    "3. Computer Memory/Introduction.md",
+    "1. The First Program/1 Introduction.md",
+    "4. Read-Write/3.4 System Calls.md",
+    "1. The First Program/3.2 Registers.md",
+    "1. The First Program/4 Challenges.md",
+    "1. The First Program/3.1 DATA.md",
+    "3. Computer Memory/3.3 Memory.md",
     "2. Software Introspection/Introduction.md",
-    "1. The First Program/3.3 Memory.md",
+    "3. Computer Memory/II. DE-Referencing.md",
+    "3. Computer Memory/I. Loading from Memory.md",
+    "4. Read-Write/IV. Reading Data.md",
+    "4. Read-Write/III. Writings Strings.md",
+    "4. Read-Write/II. Chaining Syscalls.md",
+    "4. Read-Write/I. Writing Output.md",
+    "4. Read-Write",
+    "1. The First Program/4. System Calls",
+    "1. The First Program/4. System Calls",
+    "1. The First Program/Pictures/Pasted image 20250710134154.png",
+    "README.md",
+    "1. The First Program/Pictures/Pasted image 20250710133347.png",
+    "Pasted image 20250710133011.png",
+    "3. Computer Memory/Introduction.md",
     "1. The First Program/Pictures/Pasted image 20250709223922.png",
     "1. The First Program/Pictures/Pasted image 20250709223704.png",
     "1. The First Program/Pictures/Pasted image 20250709222746.png",
@@ -189,24 +205,15 @@
     "2. Software Introspection/3. Starting Program in GDB.md",
     "2. Software Introspection/2. GDB.md",
     "2. Software Introspection/1. strace.md",
-    "README.md",
     "2. Software Introspection",
-    "1. The First Program/4 Challenges.md",
     "1. The First Program/Moving Between Registers.md",
     "1. The First Program/Executable.md",
     "1. The First Program/Your First Syscall.md",
-    "1. The First Program/1 Introduction.md",
     "1. The First Program/Exit Codes.md",
     "1. The First Program/The First Register.md",
     "The First Program/4 Challs",
     "Welcome.md",
-    "1. The First Program/Pictures/Pasted image 20250708174259.png",
-    "1. The First Program/3.2 Registers.md",
-    "1. The First Program/3.1 DATA.md",
-    "1. The First Program/Pictures/Pasted image 20250708181342.png",
-    "1. The First Program/Pictures/Pasted image 20250708181216.png",
     "1. The First Program/Pictures",
-    "Assembly Crash Course (x86).md",
     "1. The First Program"
   ]
 }
