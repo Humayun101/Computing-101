@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5.  Assembly Crash Course/3.7 Further reading.md",
+                "file": "5.  Assembly Crash Course/VII. set-upper-byte.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.7 Further reading"
+              "title": "VII. set-upper-byte"
             }
           }
         ],
@@ -183,8 +183,15 @@
   },
   "active": "f718415d0735ad95",
   "lastOpenFiles": [
-    "5.  Assembly Crash Course/3.6 Building Programs.md",
+    "5.  Assembly Crash Course/VI. modulo operation.md",
+    "5.  Assembly Crash Course/VII. set-upper-byte.md",
+    "5.  Assembly Crash Course/V. integer-division.md",
+    "5.  Assembly Crash Course/IV. linear-equation-register.md",
+    "5.  Assembly Crash Course/III. add-to-register.md",
+    "5.  Assembly Crash Course/II. set-multiple-registers.md",
+    "5.  Assembly Crash Course/I. set-register.md",
     "5.  Assembly Crash Course/3.7 Further reading.md",
+    "5.  Assembly Crash Course/3.6 Building Programs.md",
     "5.  Assembly Crash Course/3.5 Control Flow.md",
     "4. ReadnWrite/3.4 System Calls.md",
     "3. Computer Memory/3.3 Memory.md",
@@ -217,17 +224,10 @@
     "2. Software Introspection/sed6DDKT7",
     "2. Software Introspection/Introduction.md",
     "3. Computer Memory/II. DE-Referencing.md",
-    "4. Read-Write/IV. Reading Data.md",
-    "4. Read-Write/III. Writings Strings.md",
-    "4. Read-Write/II. Chaining Syscalls.md",
     "4. Read-Write",
     "1. The First Program/4. System Calls",
     "1. The First Program/4. System Calls",
-    "README.md",
-    "3. Computer Memory/Introduction.md",
     "3. Computer Memory/Pictures",
-    "3. Computer Memory",
-    "2. Software Introspection/3. Starting Program in GDB.md",
-    "2. Software Introspection/2. GDB.md"
+    "3. Computer Memory"
   ]
 }
