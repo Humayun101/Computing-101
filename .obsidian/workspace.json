@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5.  Assembly Crash Course/VII. set-upper-byte.md",
+                "file": "5.  Assembly Crash Course/VIII. efficient-modulo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VII. set-upper-byte"
+              "title": "VIII. efficient-modulo"
             }
           }
         ],
@@ -183,8 +183,9 @@
   },
   "active": "f718415d0735ad95",
   "lastOpenFiles": [
-    "5.  Assembly Crash Course/VI. modulo operation.md",
     "5.  Assembly Crash Course/VII. set-upper-byte.md",
+    "5.  Assembly Crash Course/VIII. efficient-modulo.md",
+    "5.  Assembly Crash Course/VI. modulo operation.md",
     "5.  Assembly Crash Course/V. integer-division.md",
     "5.  Assembly Crash Course/IV. linear-equation-register.md",
     "5.  Assembly Crash Course/III. add-to-register.md",
@@ -223,7 +224,6 @@
     "3. Computer Memory/I. Loading from Memory.md",
     "2. Software Introspection/sed6DDKT7",
     "2. Software Introspection/Introduction.md",
-    "3. Computer Memory/II. DE-Referencing.md",
     "4. Read-Write",
     "1. The First Program/4. System Calls",
     "1. The First Program/4. System Calls",
