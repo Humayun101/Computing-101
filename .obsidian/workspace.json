@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "86299871101ba928",
+        "id": "af04edd5ccca703d",
         "type": "tabs",
         "children": [
           {
-            "id": "f7c68068eee77ead",
+            "id": "58712816649a2190",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "5.  Assembly Crash Course/Pictures/Pasted image 20250715175919.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250715175919"
-            }
-          },
-          {
-            "id": "f718415d0735ad95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5.  Assembly Crash Course/VIII. efficient-modulo.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "VIII. efficient-modulo"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,10 +164,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f718415d0735ad95",
+  "active": "58712816649a2190",
   "lastOpenFiles": [
-    "5.  Assembly Crash Course/VII. set-upper-byte.md",
+    "5.  Assembly Crash Course/Pictures/Pasted image 20250715175919.png",
+    "5.  Assembly Crash Course/IX. byte-extraction.md",
     "5.  Assembly Crash Course/VIII. efficient-modulo.md",
+    "5.  Assembly Crash Course/VII. set-upper-byte.md",
     "5.  Assembly Crash Course/VI. modulo operation.md",
     "5.  Assembly Crash Course/V. integer-division.md",
     "5.  Assembly Crash Course/IV. linear-equation-register.md",
@@ -208,7 +193,6 @@
     "5.  Assembly Crash Course/Pictures/Pasted image 20250715201737.png",
     "5.  Assembly Crash Course/Pictures/Pasted image 20250715201704.png",
     "5.  Assembly Crash Course/Pictures/Pasted image 20250715201439.png",
-    "5.  Assembly Crash Course/Pictures/Pasted image 20250715175919.png",
     "5.  Assembly Crash Course/Pictures/Pasted image 20250715175945.png",
     "5.  Assembly Crash Course/Pictures/Pasted image 20250715200125.png",
     "5.  Assembly Crash Course/Pictures/Pasted image 20250715194759.png",
@@ -221,9 +205,7 @@
     "4. Read-Write/3.4 System Calls.md",
     "4. Read-Write/I. Writing Output.md",
     "1. The First Program/Moving Between Registers.md",
-    "3. Computer Memory/I. Loading from Memory.md",
     "2. Software Introspection/sed6DDKT7",
-    "2. Software Introspection/Introduction.md",
     "4. Read-Write",
     "1. The First Program/4. System Calls",
     "1. The First Program/4. System Calls",
