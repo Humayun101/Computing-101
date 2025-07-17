@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5.  Assembly Crash Course/XIV.  memory-increment.md",
+                "file": "5.  Assembly Crash Course/XVIII. memory-sum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "XIV.  memory-increment"
+              "title": "XVIII. memory-sum"
             }
           }
         ]
@@ -170,9 +170,13 @@
   },
   "active": "58712816649a2190",
   "lastOpenFiles": [
+    "5.  Assembly Crash Course/XVI. memory-size-access.md",
+    "5.  Assembly Crash Course/XVIII. memory-sum.md",
+    "5.  Assembly Crash Course/XVII. little-endian-write.md",
+    "5.  Assembly Crash Course/XV. byte-access.md",
+    "5.  Assembly Crash Course/XII. memory-read.md",
     "5.  Assembly Crash Course/XIII. memory-write.md",
     "5.  Assembly Crash Course/XIV.  memory-increment.md",
-    "5.  Assembly Crash Course/XII. memory-read.md",
     "5.  Assembly Crash Course/XI. check-even.md",
     "5.  Assembly Crash Course/X. bitwise-and.md",
     "5.  Assembly Crash Course/Pictures/Pasted image 20250715175919.png",
@@ -193,9 +197,6 @@
     "1. The First Program/4 Challenges.md",
     "1. The First Program/3.2 Registers.md",
     "1. The First Program/3.1 DATA.md",
-    "1. The First Program/3 Assembly.md",
-    "1. The First Program/2 How CPU works (x86).md",
-    "1. The First Program/1 Introduction.md",
     "5.  Assembly Crash Course/Pictures/Pasted image 20250715202132.png",
     "5.  Assembly Crash Course/Pictures/Pasted image 20250715202011.png",
     "5.  Assembly Crash Course/Pictures/Pasted image 20250715201942.png",
@@ -208,7 +209,6 @@
     "5.  Assembly Crash Course/Pictures",
     "5.  Assembly Crash Course",
     "4. ReadnWrite/Pictures",
-    "4. ReadnWrite/Untitled.md",
     "3. Computer Memory/Pictures",
     "2. Software Introspection/sed6DDKT7",
     "4. Read-Write",
