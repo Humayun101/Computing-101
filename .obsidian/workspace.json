@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5.  Assembly Crash Course/XVIII. memory-sum.md",
+                "file": "5.  Assembly Crash Course/XXV. conditional-jump.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "XVIII. memory-sum"
+              "title": "XXV. conditional-jump"
             }
           }
         ]
@@ -170,8 +170,15 @@
   },
   "active": "58712816649a2190",
   "lastOpenFiles": [
-    "5.  Assembly Crash Course/XVI. memory-size-access.md",
+    "5.  Assembly Crash Course/XXIV.  jump-trampoline.md",
+    "5.  Assembly Crash Course/XXV. conditional-jump.md",
+    "5.  Assembly Crash Course/XXIII. relative-jump.md",
+    "5.  Assembly Crash Course/XXII. absolute-jump.md",
+    "5.  Assembly Crash Course/XXI. average-stack-values.md",
+    "5.  Assembly Crash Course/XX. swap-stack-values.md",
+    "5.  Assembly Crash Course/XIX. stack-subtraction.md",
     "5.  Assembly Crash Course/XVIII. memory-sum.md",
+    "5.  Assembly Crash Course/XVI. memory-size-access.md",
     "5.  Assembly Crash Course/XVII. little-endian-write.md",
     "5.  Assembly Crash Course/XV. byte-access.md",
     "5.  Assembly Crash Course/XII. memory-read.md",
@@ -190,13 +197,6 @@
     "5.  Assembly Crash Course/II. set-multiple-registers.md",
     "5.  Assembly Crash Course/I. set-register.md",
     "5.  Assembly Crash Course/3.7 Further reading.md",
-    "5.  Assembly Crash Course/3.6 Building Programs.md",
-    "5.  Assembly Crash Course/3.5 Control Flow.md",
-    "4. ReadnWrite/3.4 System Calls.md",
-    "3. Computer Memory/3.3 Memory.md",
-    "1. The First Program/4 Challenges.md",
-    "1. The First Program/3.2 Registers.md",
-    "1. The First Program/3.1 DATA.md",
     "5.  Assembly Crash Course/Pictures/Pasted image 20250715202132.png",
     "5.  Assembly Crash Course/Pictures/Pasted image 20250715202011.png",
     "5.  Assembly Crash Course/Pictures/Pasted image 20250715201942.png",

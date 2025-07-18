@@ -36,3 +36,11 @@ Perform the following:
 - Calculate the sum of the previous steps' quad words.
 - Store the sum at the address in `rsi`.
 
+Extracting binary code from provided ELF file...
+Executing your code...
+---------------- CODE ----------------
+0x400000:       mov     rax, qword ptr [rdi]
+0x400003:       mov     rbx, qword ptr [rdi + 8]
+0x400007:       add     rbx, rax
+0x40000a:       mov     qword ptr [rsi], rbx
+
