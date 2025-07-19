@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5.  Assembly Crash Course/XXVI. indirect-jump.md",
+                "file": "6. Debugging/1. Robert's Debugging Tutorial.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "XXVI. indirect-jump"
+              "title": "1. Robert's Debugging Tutorial"
             }
           }
         ]
@@ -168,10 +168,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "58712816649a2190",
+  "active": "ff28256bc866bfc4",
   "lastOpenFiles": [
-    "5.  Assembly Crash Course/XXV. conditional-jump.md",
+    "6. Debugging/level3.md",
+    "6. Debugging/level2.md",
+    "6. Debugging/level1.md",
+    "6. Debugging/2. GDB Sources.md",
+    "6. Debugging/1. Robert's Debugging Tutorial.md",
+    "4. ReadnWrite/3.4 System Calls.md",
+    "3. Computer Memory/II. DE-Referencing.md",
+    "3. Computer Memory/3.3 Memory.md",
+    "3. Computer Memory/Pictures/Pasted image 20250709220831.png",
+    "6. Debugging/Pictures/2.jpeg",
+    "6. Debugging/Pictures/1.jpeg",
+    "WhatsApp Image 2025-07-19 at 4.39.53 PM.jpeg",
     "5.  Assembly Crash Course/XXVI. indirect-jump.md",
+    "6. Debugging/Pictures",
+    "6. Debugging",
+    "5.  Assembly Crash Course/XXV. conditional-jump.md",
     "5.  Assembly Crash Course/XXIV.  jump-trampoline.md",
     "5.  Assembly Crash Course/XXIII. relative-jump.md",
     "5.  Assembly Crash Course/XXII. absolute-jump.md",
@@ -189,23 +203,11 @@
     "5.  Assembly Crash Course/X. bitwise-and.md",
     "5.  Assembly Crash Course/Pictures/Pasted image 20250715175919.png",
     "5.  Assembly Crash Course/IX. byte-extraction.md",
-    "5.  Assembly Crash Course/VIII. efficient-modulo.md",
-    "5.  Assembly Crash Course/VII. set-upper-byte.md",
-    "5.  Assembly Crash Course/VI. modulo operation.md",
-    "5.  Assembly Crash Course/V. integer-division.md",
-    "5.  Assembly Crash Course/IV. linear-equation-register.md",
-    "5.  Assembly Crash Course/III. add-to-register.md",
-    "5.  Assembly Crash Course/II. set-multiple-registers.md",
-    "5.  Assembly Crash Course/I. set-register.md",
     "5.  Assembly Crash Course/Pictures/Pasted image 20250715202132.png",
     "5.  Assembly Crash Course/Pictures/Pasted image 20250715202011.png",
     "5.  Assembly Crash Course/Pictures/Pasted image 20250715201942.png",
     "5.  Assembly Crash Course/Pictures/Pasted image 20250715201737.png",
     "5.  Assembly Crash Course/Pictures/Pasted image 20250715201704.png",
-    "5.  Assembly Crash Course/Pictures/Pasted image 20250715201439.png",
-    "5.  Assembly Crash Course/Pictures/Pasted image 20250715175945.png",
-    "5.  Assembly Crash Course/Pictures/Pasted image 20250715200125.png",
-    "5.  Assembly Crash Course/Pictures/Pasted image 20250715194759.png",
     "5.  Assembly Crash Course/Pictures",
     "5.  Assembly Crash Course",
     "4. ReadnWrite/Pictures",
@@ -213,8 +215,6 @@
     "2. Software Introspection/sed6DDKT7",
     "4. Read-Write",
     "1. The First Program/4. System Calls",
-    "1. The First Program/4. System Calls",
-    "3. Computer Memory/Pictures",
-    "3. Computer Memory"
+    "1. The First Program/4. System Calls"
   ]
 }
