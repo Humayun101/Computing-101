@@ -6,7 +6,7 @@ For example, `x/8i $rip` will print the next 8 instructions from the current ins
 
 You will probably want to view your instructions using the CORRECT assembly syntax. You can do that with the command `set disassembly-flavor intel`.
 
-In order to solve this level, you must figure out the random value on the stack (the value read in from `/dev/urandom`). Think about what the arguments to the read system call are.
+In order to solve this level, you must figure out the random value on the stack (the value read in from `/dev/urandom`). Think about what the arguments to the read system call are
 
 ---
 
